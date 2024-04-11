@@ -7,7 +7,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 /**
  * 全局跨域配置
  *
- * @author 程序员shockRui
+ * @author shockRui
  * @from 
  */
 @Configuration

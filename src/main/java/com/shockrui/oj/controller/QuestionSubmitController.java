@@ -24,7 +24,7 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * 题目提交接口
  *
- * @author 程序员shockRui
+ * @author shockRui
  * @from 
  */
 @RestController

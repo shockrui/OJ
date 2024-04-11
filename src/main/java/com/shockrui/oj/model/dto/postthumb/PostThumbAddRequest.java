@@ -6,7 +6,7 @@ import lombok.Data;
 /**
  * 帖子点赞请求
  *
- * @author 程序员shockRui
+ * @author shockRui
  * @from 
  */
 @Data

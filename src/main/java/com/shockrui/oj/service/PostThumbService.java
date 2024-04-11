@@ -7,7 +7,7 @@ import com.shockrui.oj.model.entity.User;
 /**
  * 帖子点赞服务
  *
- * @author 程序员shockRui
+ * @author shockRui
  * @from 
  */
 public interface PostThumbService extends IService<PostThumb> {

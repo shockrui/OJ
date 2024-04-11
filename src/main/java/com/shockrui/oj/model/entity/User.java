@@ -12,7 +12,7 @@ import lombok.Data;
 /**
  * 用户
  *
- * @author 程序员shockRui
+ * @author shockRui
  * @from 
  */
 @TableName(value = "user")

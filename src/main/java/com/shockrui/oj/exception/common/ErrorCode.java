@@ -3,7 +3,7 @@ package com.shockrui.oj.exception.common;
 /**
  * 自定义错误码
  *
- * @author 程序员shockRui
+ * @author shockRui
  * @from 
  */
 public enum ErrorCode {

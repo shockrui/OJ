@@ -12,7 +12,7 @@ import org.springframework.stereotype.Component;
 /**
  * 事件处理器
  *
- * @author 程序员shockRui
+ * @author shockRui
  * @from 
  **/
 @Component

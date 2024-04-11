@@ -21,7 +21,7 @@ import org.springframework.transaction.annotation.Transactional;
 /**
  * 帖子收藏服务实现
  *
- * @author 程序员shockRui
+ * @author shockRui
  * @from 
  */
 @Service

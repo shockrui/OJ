@@ -13,7 +13,7 @@ import me.chanjar.weixin.common.bean.WxOAuth2UserInfo;
 /**
  * 用户服务
  *
- * @author 程序员shockRui
+ * @author shockRui
  * @from 
  */
 public interface UserService extends IService<User> {

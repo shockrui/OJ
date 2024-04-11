@@ -3,7 +3,7 @@ package com.shockrui.oj.wxmp;
 /**
  * 微信公众号相关常量
  *
- * @author 程序员shockRui
+ * @author shockRui
  * @from 
  **/
 public class WxMpConstant {

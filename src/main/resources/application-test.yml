@@ -1,5 +1,5 @@
 # 测试配置文件
-# @author 程序员shockRui
+# @author shockRui
 # @from 
 server:
   port: 8101

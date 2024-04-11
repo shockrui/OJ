@@ -12,7 +12,7 @@ import org.springframework.beans.BeanUtils;
 /**
  * 帖子视图
  *
- * @author 程序员shockRui
+ * @author shockRui
  * @from 
  */
 @Data

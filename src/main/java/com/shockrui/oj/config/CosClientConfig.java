@@ -13,7 +13,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * 腾讯云对象存储客户端
  *
- * @author 程序员shockRui
+ * @author shockRui
  * @from 
  */
 @Configuration

@@ -18,7 +18,7 @@ import org.springframework.transaction.annotation.Transactional;
 /**
  * 帖子点赞服务实现
  *
- * @author 程序员shockRui
+ * @author shockRui
  * @from 
  */
 @Service

@@ -50,7 +50,7 @@ import org.springframework.stereotype.Service;
 /**
  * 帖子服务实现
  *
- * @author 程序员shockRui
+ * @author shockRui
  * @from 
  */
 @Service

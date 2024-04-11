@@ -30,7 +30,7 @@ import org.springframework.util.DigestUtils;
 /**
  * 用户服务实现
  *
- * @author 程序员shockRui
+ * @author shockRui
  * @from 
  */
 @Service

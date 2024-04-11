@@ -3,7 +3,7 @@ package com.shockrui.oj.exception.common;
 /**
  * 返回工具类
  *
- * @author 程序员shockRui
+ * @author shockRui
  * @from 
  */
 public class ResultUtils {

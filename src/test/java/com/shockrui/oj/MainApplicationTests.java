@@ -8,7 +8,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 /**
  * 主类测试
  *
- * @author 程序员shockRui
+ * @author shockRui
  * @from 
  */
 @SpringBootTest

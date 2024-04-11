@@ -1,5 +1,5 @@
 # Docker 镜像构建
-# @author 程序员shockRui
+# @author shockRui
 # @from
 FROM maven:3.8.1-jdk-8-slim as builder
 

@@ -16,7 +16,7 @@ import org.springframework.web.context.request.ServletRequestAttributes;
 /**
  * 请求响应日志 AOP
  *
- * @author 程序员shockRui
+ * @author shockRui
  * @from 
  **/
 @Aspect

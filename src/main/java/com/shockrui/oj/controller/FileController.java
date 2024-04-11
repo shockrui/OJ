@@ -26,7 +26,7 @@ import org.springframework.web.multipart.MultipartFile;
 /**
  * 文件接口
  *
- * @author 程序员shockRui
+ * @author shockRui
  * @from 
  */
 @RestController

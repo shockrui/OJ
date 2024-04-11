@@ -7,7 +7,7 @@ import org.springframework.data.elasticsearch.repository.ElasticsearchRepository
 /**
  * 帖子 ES 操作
  *
- * @author 程序员shockRui
+ * @author shockRui
  * @from
  */
 public interface PostEsDao extends ElasticsearchRepository<PostEsDTO, Long> {

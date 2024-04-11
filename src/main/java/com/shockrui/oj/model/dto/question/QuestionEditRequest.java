@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * 编辑请求
  *
- * @author 程序员shockRui
+ * @author shockRui
  * @from 
  */
 @Data

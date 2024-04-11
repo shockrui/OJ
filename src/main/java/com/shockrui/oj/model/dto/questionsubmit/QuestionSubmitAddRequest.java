@@ -7,7 +7,7 @@ import java.io.Serializable;
 /**
  * 创建请求
  *
- * @author 程序员shockRui
+ * @author shockRui
  * @from 
  */
 @Data

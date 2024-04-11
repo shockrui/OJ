@@ -3,7 +3,7 @@ package com.shockrui.oj.constant;
 /**
  * 通用常量
  *
- * @author 程序员shockRui
+ * @author shockRui
  * @from 
  */
 public interface CommonConstant {

@@ -3,7 +3,7 @@ package com.shockrui.oj.constant;
 /**
  * 文件常量
  *
- * @author 程序员shockRui
+ * @author shockRui
  * @from 
  */
 public interface FileConstant {

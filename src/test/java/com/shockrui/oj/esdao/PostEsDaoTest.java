@@ -18,7 +18,7 @@ import org.springframework.data.domain.Sort;
 /**
  * 帖子 ES 操作测试
  *
- * @author 程序员shockRui
+ * @author shockRui
  * @from 
  */
 @SpringBootTest

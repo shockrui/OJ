@@ -33,7 +33,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 帖子接口
  *
- * @author 程序员shockRui
+ * @author shockRui
  * @from 
  */
 @RestController

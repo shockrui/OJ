@@ -13,7 +13,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 /**
  * 帖子收藏服务测试
  *
- * @author 程序员shockRui
+ * @author shockRui
  * @from 
  */
 @SpringBootTest

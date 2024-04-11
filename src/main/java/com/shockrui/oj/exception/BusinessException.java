@@ -5,7 +5,7 @@ import com.shockrui.oj.exception.common.ErrorCode;
 /**
  * 自定义异常类
  *
- * @author 程序员shockRui
+ * @author shockRui
  * @from 
  */
 public class BusinessException extends RuntimeException {

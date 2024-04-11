@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 /**
  * 题目提交枚举
  *
- * @author 程序员shockRui
+ * @author shockRui
  * @from 
  */
 public enum QuestionSubmitStatusEnum {

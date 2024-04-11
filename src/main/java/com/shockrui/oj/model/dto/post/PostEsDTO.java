@@ -17,7 +17,7 @@ import org.springframework.data.elasticsearch.annotations.FieldType;
 /**
  * 帖子 ES 包装类
  *
- * @author 程序员shockRui
+ * @author shockRui
  * @from 
  **/
 // todo 取消注释开启 ES（须先配置 ES）

@@ -1,5 +1,5 @@
 # 数据库初始化
-# @author 程序员shockRui
+# @author shockRui
 # @from
 
 -- 创建库

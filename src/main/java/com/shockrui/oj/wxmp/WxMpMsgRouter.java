@@ -14,7 +14,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * 微信公众号路由
  *
- * @author 程序员shockRui
+ * @author shockRui
  * @from 
  */
 @Configuration

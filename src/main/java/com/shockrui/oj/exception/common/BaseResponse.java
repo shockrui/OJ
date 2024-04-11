@@ -7,7 +7,7 @@ import lombok.Data;
  * 通用返回类
  *
  * @param <T>
- * @author 程序员shockRui
+ * @author shockRui
  * @from 
  */
 @Data

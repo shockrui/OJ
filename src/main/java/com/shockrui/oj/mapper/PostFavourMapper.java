@@ -12,7 +12,7 @@ import org.apache.ibatis.annotations.Param;
 /**
  * 帖子收藏数据库操作
  *
- * @author 程序员shockRui
+ * @author shockRui
  * @from 
  */
 public interface PostFavourMapper extends BaseMapper<PostFavour> {

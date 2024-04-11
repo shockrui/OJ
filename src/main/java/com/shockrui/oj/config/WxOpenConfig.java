@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * 微信开放平台配置
  *
- * @author 程序员shockRui
+ * @author shockRui
  * @from 
  */
 @Slf4j

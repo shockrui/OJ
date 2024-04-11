@@ -11,7 +11,7 @@ import com.shockrui.oj.model.entity.User;
 /**
  * 帖子收藏服务
  *
- * @author 程序员shockRui
+ * @author shockRui
  * @from 
  */
 public interface PostFavourService extends IService<PostFavour> {
