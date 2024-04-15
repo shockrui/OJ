@@ -3,7 +3,7 @@ package com.shockrui.oj.judge.codesandbox.impl;
 import com.shockrui.oj.judge.codesandbox.CodeSandbox;
 import com.shockrui.oj.judge.codesandbox.model.ExecuteCodeRequest;
 import com.shockrui.oj.judge.codesandbox.model.ExecuteCodeResponse;
-import com.shockrui.oj.model.dto.questionsubmit.JudgeInfo;
+import com.shockrui.oj.judge.codesandbox.model.JudgeInfo;
 import com.shockrui.oj.model.enums.JudgeInfoMessageEnum;
 import com.shockrui.oj.model.enums.QuestionSubmitStatusEnum;
 import lombok.extern.slf4j.Slf4j;

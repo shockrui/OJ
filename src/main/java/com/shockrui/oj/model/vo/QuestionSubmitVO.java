@@ -1,7 +1,7 @@
 package com.shockrui.oj.model.vo;
 
 import cn.hutool.json.JSONUtil;
-import com.shockrui.oj.model.dto.questionsubmit.JudgeInfo;
+import com.shockrui.oj.judge.codesandbox.model.JudgeInfo;
 import com.shockrui.oj.model.entity.QuestionSubmit;
 import lombok.Data;
 import org.springframework.beans.BeanUtils;

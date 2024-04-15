@@ -23,6 +23,7 @@ public class CodeSandBoxFactory {
             case "thirdParty":
                 return new ThirdPartyCodeSandbox();
             default:
+                // 默认为示例沙箱 example
                 return new ExampleCodeSandbox();
         }
     }

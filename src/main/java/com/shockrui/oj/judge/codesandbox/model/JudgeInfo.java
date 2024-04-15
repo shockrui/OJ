@@ -1,4 +1,4 @@
-package com.shockrui.oj.model.dto.questionsubmit;
+package com.shockrui.oj.judge.codesandbox.model;
 
 import lombok.Data;
 

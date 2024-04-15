@@ -4,7 +4,7 @@ import com.shockrui.oj.judge.judgeStrategy.DefaultJudgeStrategy;
 import com.shockrui.oj.judge.judgeStrategy.JavaLanguageJudgeStrategy;
 import com.shockrui.oj.judge.judgeStrategy.JudgeContext;
 import com.shockrui.oj.judge.judgeStrategy.JudgeStrategy;
-import com.shockrui.oj.model.dto.questionsubmit.JudgeInfo;
+import com.shockrui.oj.judge.codesandbox.model.JudgeInfo;
 import org.springframework.stereotype.Service;
 
 @Service

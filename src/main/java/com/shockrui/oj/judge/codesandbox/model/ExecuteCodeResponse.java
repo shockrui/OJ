@@ -1,6 +1,5 @@
 package com.shockrui.oj.judge.codesandbox.model;
 
-import com.shockrui.oj.model.dto.questionsubmit.JudgeInfo;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

@@ -3,7 +3,7 @@ package com.shockrui.oj.judge.judgeStrategy;
 import cn.hutool.json.JSONUtil;
 import com.shockrui.oj.model.dto.question.JudgeCase;
 import com.shockrui.oj.model.dto.question.JudgeConfig;
-import com.shockrui.oj.model.dto.questionsubmit.JudgeInfo;
+import com.shockrui.oj.judge.codesandbox.model.JudgeInfo;
 import com.shockrui.oj.model.entity.Question;
 import com.shockrui.oj.model.enums.JudgeInfoMessageEnum;
 

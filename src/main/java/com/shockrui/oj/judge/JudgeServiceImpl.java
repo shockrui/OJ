@@ -10,13 +10,12 @@ import com.shockrui.oj.judge.codesandbox.model.ExecuteCodeRequest;
 import com.shockrui.oj.judge.codesandbox.model.ExecuteCodeResponse;
 import com.shockrui.oj.judge.judgeStrategy.JudgeContext;
 import com.shockrui.oj.model.dto.question.JudgeCase;
-import com.shockrui.oj.model.dto.questionsubmit.JudgeInfo;
+import com.shockrui.oj.judge.codesandbox.model.JudgeInfo;
 import com.shockrui.oj.model.entity.Question;
 import com.shockrui.oj.model.entity.QuestionSubmit;
 import com.shockrui.oj.model.enums.QuestionSubmitStatusEnum;
 import com.shockrui.oj.service.QuestionService;
 import com.shockrui.oj.service.QuestionSubmitService;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 
