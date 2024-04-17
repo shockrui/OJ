@@ -3,9 +3,9 @@ package com.shockrui.oj.service.impl;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.shockrui.oj.exception.common.ErrorCode;
 import com.shockrui.oj.constant.CommonConstant;
 import com.shockrui.oj.exception.BusinessException;
+import com.shockrui.oj.exception.common.ErrorCode;
 import com.shockrui.oj.judge.JudgeService;
 import com.shockrui.oj.mapper.QuestionSubmitMapper;
 import com.shockrui.oj.model.dto.questionsubmit.QuestionSubmitAddRequest;
@@ -23,7 +23,6 @@ import com.shockrui.oj.utils.SqlUtils;
 import org.apache.commons.collections4.CollectionUtils;
 import org.apache.commons.lang3.ObjectUtils;
 import org.apache.commons.lang3.StringUtils;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Lazy;
 import org.springframework.stereotype.Service;
 
@@ -88,7 +87,7 @@ public class QuestionSubmitServiceImpl extends ServiceImpl<QuestionSubmitMapper,
             throw new BusinessException(ErrorCode.SYSTEM_ERROR, "数据插入失败");
         }
         Long questionSubmitId = questionSubmit.getId();
-        // 执行判题服务 todo:异步？
+        // 执行判题服务 异步操作 当前主线程直接返回，另起一个线程执行判题服务 todo
         CompletableFuture.runAsync(() -> {
             judgeService.doJudge(questionSubmitId);
         });
